@@ -10,10 +10,10 @@
 
 | Проект | Задача и технический фокус |
 | --- | --- |
-| [bitcoin_chart_project](https://github.com/EvgenyET/bitcoin_chart_project) | Django-приложение с API, графиками свечей и расчётом стратегии на исторических данных. |
-| [RektRadar](https://github.com/EvgenyET/RektRadar) | Асинхронная обработка событий WebSocket, агрегация статистики и отчёты в Telegram. |
-| [PumpFun_TraderBot](https://github.com/EvgenyET/PumpFun_TraderBot) | Flask API, серверный мониторинг, симулятор сделок и настольная панель PyQt5. |
-| [ClickFarm](https://github.com/EvgenyET/ClickFarm) | Генерация и публикация статей через API, локальная база SQLite и просмотр статистики. |
+| [Тестирование стратегии EMA на истории](https://github.com/EvgenyET/bitcoin_chart_project) | Django-приложение с API, графиками свечей и расчётом стратегии на исторических данных. |
+| [Мониторинг ликвидаций Bybit](https://github.com/EvgenyET/RektRadar) | Асинхронная обработка событий WebSocket, агрегация статистики и отчёты в Telegram. |
+| [Мониторинг токенов Pump.Fun: сервер и приложение](https://github.com/EvgenyET/PumpFun_TraderBot) | Flask API, серверный мониторинг, симулятор сделок и настольная панель PyQt5. |
+| [Автоматизация публикаций в Telegraph](https://github.com/EvgenyET/ClickFarm) | Генерация и публикация статей через API, локальная база SQLite и просмотр статистики. |
 
 В README проектов описаны назначение модулей, используемые технологии, подготовка к запуску и ограничения. Для выбранных проектов добавлены проверки ключевых сценариев на локальных данных.
 
