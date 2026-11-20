@@ -11,13 +11,23 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/EvgenyET/RektFix-portfolio">RektFix</a></h3>
-<p>Веб-сервис для исследования создателей токенов.</p>
-<a href="https://github.com/EvgenyET/RektFix-portfolio"><img src="https://raw.githubusercontent.com/EvgenyET/RektFix-portfolio/main/screenshots/overview.webp" width="400" alt="RektFix - каталог создателей токенов"></a>
-<p>Поиск, профили и история запусков. Сборщик данных работает отдельно от сайта, сохраняет прогресс и синхронизирует результаты с серверной базой.</p>
-<p><code>TypeScript</code> <code>React</code> <code>Next.js</code> <code>Cloudflare D1</code></p>
-<p><a href="https://github.com/EvgenyET/RektFix-portfolio">Разбор проекта</a> · <a href="https://evgeny-dev.pro/project.html?id=RektFix">Демонстрация</a></p>
+<h3><a href="https://github.com/EvgenyET/StarMap_web_app-portfolio">StarMap Web</a></h3>
+<p>Интерактивная трёхмерная карта звёзд в браузере.</p>
+<a href="https://github.com/EvgenyET/StarMap_web_app-portfolio"><img src="https://raw.githubusercontent.com/EvgenyET/StarMap_web_app-portfolio/main/screenshots/overview.webp" width="400" alt="StarMap Web - карта и панель выбранной звезды"></a>
+<p>Исследование карты, выбор звезды и личная коллекция. Кабинет объединяет кошелёк, фарминг и приглашения, а интерфейс адаптирован для компьютера и телефона.</p>
+<p><code>JavaScript</code> <code>Three.js</code> <code>Node.js</code></p>
+<p><a href="https://github.com/EvgenyET/StarMap_web_app-portfolio">Разбор проекта</a> · <a href="https://evgeny-dev.pro/project.html?id=StarMap_web_app">Демонстрация</a></p>
 </td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/EvgenyET/ScalperBot-portfolio">ScalperBot</a></h3>
+<p>Настольный терминал анализа рынка Hyperliquid.</p>
+<a href="https://github.com/EvgenyET/ScalperBot-portfolio"><img src="https://raw.githubusercontent.com/EvgenyET/ScalperBot-portfolio/main/screenshots/overview.webp" width="400" alt="ScalperBot - таблица рыночных данных терминала"></a>
+<p>Стакан и лента сделок, отслеживание крупных заявок и виртуальные позиции. Архив событий позволяет воспроизводить рыночный поток и проверять торговые правила на истории.</p>
+<p><code>TypeScript</code> <code>React</code> <code>Electron</code> <code>WebSocket</code></p>
+<p><a href="https://github.com/EvgenyET/ScalperBot-portfolio">Разбор проекта</a> · <a href="https://evgeny-dev.pro/project.html?id=ScalperBot">Демонстрация</a></p>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/EvgenyET/TextPad-portfolio">TextPad</a></h3>
 <p>Настольный редактор заметок и документов.</p>
@@ -26,8 +36,6 @@
 <p><code>Go</code> <code>Wails</code> <code>JavaScript</code></p>
 <p><a href="https://github.com/EvgenyET/TextPad-portfolio">Разбор проекта</a> · <a href="https://evgeny-dev.pro/project.html?id=TextPad">Демонстрация</a></p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <h3><a href="https://github.com/EvgenyET/VoxHit-portfolio">VoxHit</a></h3>
 <p>Android-студия синтеза и клонирования голоса.</p>
@@ -35,14 +43,6 @@
 <p>Мобильный клиент связан с Python API и очередью генерации. Длительные задачи выполняют отдельные обработчики, а приложение показывает их состояние и готовое аудио.</p>
 <p><code>Kotlin</code> <code>Jetpack Compose</code> <code>Python</code> <code>FastAPI</code></p>
 <p><a href="https://github.com/EvgenyET/VoxHit-portfolio">Разбор проекта</a> · <a href="https://evgeny-dev.pro/project.html?id=VoxHit">Демонстрация</a></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/EvgenyET/GlassNoir-portfolio">GlassNoir</a></h3>
-<p>Android-приложение с авторским набором иконок.</p>
-<p align="center"><a href="https://github.com/EvgenyET/GlassNoir-portfolio"><img src="https://raw.githubusercontent.com/EvgenyET/GlassNoir-portfolio/main/screenshots/overview.webp" height="230" alt="GlassNoir - примеры оформления иконок"> <img src="https://raw.githubusercontent.com/EvgenyET/GlassNoir-portfolio/main/screenshots/detail.webp" height="230" alt="GlassNoir - каталог приложения"></a></p>
-<p>Каталог, категории, поиск и применение в совместимых лаунчерах. Инструменты сборки связывают графические ресурсы, метаданные и соответствия приложениям.</p>
-<p><code>Kotlin</code> <code>Jetpack Compose</code> <code>Android</code></p>
-<p><a href="https://github.com/EvgenyET/GlassNoir-portfolio">Разбор проекта</a> · <a href="https://evgeny-dev.pro/project.html?id=GlassNoir">Демонстрация</a></p>
 </td>
 </tr>
 </table>
@@ -71,8 +71,8 @@
 
 ## Ещё несколько направлений
 
-- [**StarMap**](https://github.com/EvgenyET/StarMap_web_app-portfolio) - интерактивная 3D-карта на Three.js, личный кабинет и коллекция звёзд.
-- [**ScalperBot**](https://github.com/EvgenyET/ScalperBot-portfolio) - настольный терминал с потоковыми рыночными данными, анализом ликвидности и симуляцией торговли.
+- [**RektFix**](https://github.com/EvgenyET/RektFix-portfolio) - веб-сервис для исследования создателей токенов, профилей и истории запусков.
+- [**GlassNoir**](https://github.com/EvgenyET/GlassNoir-portfolio) - Android-приложение с авторским набором иконок, поиском по каталогу и поддержкой лаунчеров.
 - [**Calorica**](https://github.com/EvgenyET/Calorica-portfolio) - дневник питания и активности для Windows с графиками, импортом истории и локальным хранением.
 
 [Посмотреть весь каталог со скриншотами и видео](https://evgeny-dev.pro/projects.html)
